@@ -1,0 +1,13 @@
+class- a blueprint for creating objects
+object- an instance of a class
+uml- simple lang. to show lasses and their relationships
+public - an access modifyer that determiness that the class is accesable throught the entire project
+heap- memory that stores objects
+stack- memory that stores short li. Are immediately removed once a method is ran
+garbage collection- if a object becomes unused for a certain amout of time, java removes from the heap
+static- keyword used when calling a property from the main method
+encapsulation- Encapsulation in Java is a mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit. In encapsulation, the variables of a class will be hidden from other classes, and can be accessed only through the methods of their current class.
+Abstraction - the process of reducing the object to its essence so that only the necessary characteristics are exposed to the users. Abstraction defines an object in terms of its properties (attributes), behavior (methods), and interfaces (means of communicating with other objects).
+Coupling - the dependency of one class on the other. If one object in a code uses the other object in the program, it is called loose coupling in Java. In coupling, two classes or objects collaborate and work with each other to complete a pre-defined task
+constructor- a special method that is called when a new object is created
+method overloading - creating different implementations of a method using different parameters
