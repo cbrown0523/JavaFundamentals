@@ -11,3 +11,39 @@ Abstraction - the process of reducing the object to its essence so that only the
 Coupling - the dependency of one class on the other. If one object in a code uses the other object in the program, it is called loose coupling in Java. In coupling, two classes or objects collaborate and work with each other to complete a pre-defined task
 constructor- a special method that is called when a new object is created
 method overloading - creating different implementations of a method using different parameters
+FIELDS- store objects state
+class- made up of both state and executable code (methods), and is a template for creating objects; A prototype or template that helps us design an object's state and behavior.
+constructor - executable code used during object creation to set initial state. Automatically runs when an object is created
+object- an instance of a class
+methods- execute code, manipulate state, perform operations
+reference type-
+primitive values are copied
+reference types are pointed bits
+statics- creates one instance of a class. used when taking in one user input at a time
+encapsulation- the details  of a class are generally hidden
+access modifiers- control the visability of the classes and their menmbers
+	no access modifier- only within its own package
+	private- only withoin the declaring class
+	public - everywhere
+ACCESSOR - GETTER
+mutator- setter
+chaining constructors- one constructor can call another-must be the first line of the constructor
+
+the keyword extends is used by the child class to inherit the behavior of the parent class.
+
+
+parameters static methodsfield. ie: car.miles
+
+access a static method in non static methods uses dot notation to access static methodsfield. ie: car.miles
+
+use parameters in static methods because static need something to be inputed to create something we want
+
+if data is comming outside of the class you need parameters
+use a constructor to initialize the fields values, declaring and assigning all the fields and their values
+Polymorphism-
+The feature that allows a task to be performed in diverse ways is called Polymorphism.
+Inheritance helps us to improve the reusability of code
+Encapsulation - in order to hide the internal state from the outside world, we wrap data and code collectively within a single unit, this process is known as Encapsulation. It mandates that all interactions must be performed through an object's methods.
+Abstraction is the process of identifying the essential details to be known and ignoring the non-essential details from the perspective of the user of the system
+instance- a single occurence of something
+multi dimentional arrays
